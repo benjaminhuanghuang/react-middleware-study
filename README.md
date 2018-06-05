@@ -14,3 +14,5 @@
    - https://www.udemy.com/react-redux-tutorial/learn/v4/overview
    - https://github.com/StephenGrider/AdvancedReduxCode
 
+- Redux Thunk
+    - https://blog.nojaf.com/2015/12/06/redux-thunk/
